@@ -1,4 +1,4 @@
-- 👋 G-Tech is a hub for exploring and developing IcT infrastructure.
+- 👋 Gscan_Systems is a hub for exploring and developing IcT infrastructure.
 - 👀 I'm an android developer,IOT tech,network Engineer.
 - 💞️ Tech enthusiast.
 - 📫 Reach me ...geoffreymkinyua@gmail.com
